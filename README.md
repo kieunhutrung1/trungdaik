@@ -17,7 +17,7 @@ sileo://source/https://apt.touchsprite.com/
 ```bash
 zbra://sources/add/https://apt.touchsprite.com/
 ```
-Touchsprite [Add Cydia](https://cydia.saurik.com/api/share#?source=https://quyios.github.io/quypro/),.
+Quyios [Add Cydia](https://cydia.saurik.com/api/share#?source=https://quyios.github.io/quypro/),.
 
 ```bash
 sileo://source/https://quyios.github.io/quypro/
@@ -29,3 +29,5 @@ zbra://sources/add/https://quyios.github.io/quypro/
 Zxcv123123
 ```
 BVN [Add BVN](https://bvnsupport.github.io/),.
+
+![image](https://github.com/user-attachments/assets/5655b903-7eea-4f2b-81b7-b6ce417d8c2a)
