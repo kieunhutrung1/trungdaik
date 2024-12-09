@@ -1,4 +1,3 @@
-Xoainfo [Add Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/)
 ### Tutorial
 ```bash
 cateli2005@gmail.com
