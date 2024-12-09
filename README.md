@@ -2,14 +2,14 @@
 ```bash
 cateli2005@gmail.com
 ```
-Xoainfo [Add Cydia](https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/),.
+Xoainfo [Add Cydia](https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/)
 ```bash
 sileo://source/https://xoainfo.com/xoainfo/
 ```
 ```bash
 zbra://sources/add/https://xoainfo.com/xoainfo/
 ```
-Touchsprite [Add Cydia](https://cydia.saurik.com/api/share#?source=https://apt.touchsprite.com/),.
+Touchsprite [Add Cydia](https://cydia.saurik.com/api/share#?source=https://apt.touchsprite.com/)
 
 ```bash
 sileo://source/https://apt.touchsprite.com/
@@ -17,7 +17,7 @@ sileo://source/https://apt.touchsprite.com/
 ```bash
 zbra://sources/add/https://apt.touchsprite.com/
 ```
-Quyios [Add Cydia](https://cydia.saurik.com/api/share#?source=https://quyios.github.io/quypro/),.
+Quyios [Add Cydia](https://cydia.saurik.com/api/share#?source=https://quyios.github.io/quypro/)
 
 ```bash
 sileo://source/https://quyios.github.io/quypro/
@@ -28,6 +28,6 @@ zbra://sources/add/https://quyios.github.io/quypro/
 ```bash
 Zxcv123123
 ```
-BVN [Add BVN](https://bvnsupport.github.io/),.
+BVN [Add BVN](https://bvnsupport.github.io/)
 
 ![image](https://github.com/user-attachments/assets/5655b903-7eea-4f2b-81b7-b6ce417d8c2a)
