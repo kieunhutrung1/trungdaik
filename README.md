@@ -1,11 +1,11 @@
-## IPv6 Proxy Server [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](cydia://url/https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/)
-
-Create your own IPv6 backconnect proxy server with only one script on any Linux distribution. Any number of random IPs on the subnet, ideal for parsing and traffic arbitrage (Google/Facebook/Youtube/Instagram and many others support IPv6).
-
-Xoainfo [Add Cydia](https://cydia://url/https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/), if you have some.
 ### Tutorial
-Xoainfo [Add Cydia](https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/), if you have some.
-Assuming you already have an entire IPv6 subnet (/48 or /64) routed to your server.
+Xoainfo [Add Cydia](https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/),.
+```bash
+#sudo su
+sileo://source/https://xoainfo.com/xoainfo/
+```
+
+Touchsprite [Add Cydia](https://cydia.saurik.com/api/share#?source=https://apt.touchsprite.com/),.
 
 Just run:
 
