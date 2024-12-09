@@ -30,5 +30,6 @@ Zxcv123123
 ```
 BVN [Add BVN](https://bvnsupport.github.io/)
 
-![oHzazVK9YVuTQ2YI_qrgateway](https://github.com/user-attachments/assets/005e47dd-3888-48db-bf8d-a9a46579c57c)
+![image](https://github.com/user-attachments/assets/aa192bea-dd0a-48b0-8094-57690261bd8c)
+
 
