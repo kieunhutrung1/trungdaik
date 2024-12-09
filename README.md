@@ -4,7 +4,7 @@ Create your own IPv6 backconnect proxy server with only one script on any Linux 
 
 Xoainfo [Add Cydia](https://cydia://url/https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/), if you have some.
 ### Tutorial
-
+Xoainfo [Add Cydia](cydia://url/https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/), if you have some.
 Assuming you already have an entire IPv6 subnet (/48 or /64) routed to your server.
 
 Just run:
