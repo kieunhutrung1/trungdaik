@@ -1,7 +1,7 @@
 ### Tutorial
 Xoainfo [Add Cydia](https://cydia.saurik.com/api/share#?source=https://xoainfo.com/xoainfo/),.
 ```bash
-#sudo su
+#Add Sileo
 sileo://source/https://xoainfo.com/xoainfo/
 ```
 
