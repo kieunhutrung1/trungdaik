@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.touchsprite.ios.arm64.pro.v3
+Version: 3.1.9
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.touchsprite.ios.arm64.pro.v3_3.1.9.deb
+Size: 17390518
+MD5sum: d65b6bf9ef3340afc2a0790a40082106
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: touchsprite
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
